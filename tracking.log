@@ -1,0 +1,11 @@
+2022-01-05 16:15:26,129  INFO [main] Main:58 - Contract Employee object Created
+2022-01-05 16:15:26,971  INFO [main] Main:62 - Contract employee details saved to database
+2022-01-05 16:16:09,324 ERROR [main] Main:74 - Invalid entry!!!!
+2022-01-05 16:17:53,161  INFO [main] Main:58 - Contract Employee object Created
+2022-01-05 16:17:53,664  INFO [main] Main:62 - Contract employee details saved to database
+2022-01-05 16:18:09,322  INFO [main] Main:68 - Full time Employee object Created
+2022-01-05 16:18:09,405  INFO [main] Main:72 - Full time employee details saved to database
+2022-01-05 16:20:28,327  INFO [main] Main:59 - Contract Employee object Created
+2022-01-05 16:20:28,841  INFO [main] Main:63 - Contract employee details saved to database
+2022-01-05 16:20:53,024  INFO [main] Main:69 - Full time Employee object Created
+2022-01-05 16:20:53,086  INFO [main] Main:73 - Full time employee details saved to database
